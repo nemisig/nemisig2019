@@ -27,7 +27,7 @@ Saturday, Feburary 9
 10:45a – Overview lab talks (Woody Tanger Auditorium)
 12:45p – Lunch (Library room 411)
 
-**Afternoon Schedule**
+**Preliminary Afternoon Schedule**
 
 1:45p – Posters (Location TBD)
 3:00p – Coffee + Unconference planning
