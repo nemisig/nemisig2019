@@ -4,7 +4,7 @@ NEMISIG (North East Music Information Special Interest Group) is a yearly inform
 
 Registration will be open shortly.
 
-If you have any questions, please direct them to the [Google Group](mailto:nemisig@googlegroups.com)! You may also wish to [join the group](https://groups.google.com/forum/#!forum/nemisig).
+If you have any questions, please [email the Google Group](mailto:nemisig@googlegroups.com)! You may also wish to [join the group](https://groups.google.com/forum/#!forum/nemisig).
 
 ## Venue
 
@@ -37,10 +37,10 @@ This year, NEMISIG will be in Brooklyn, NY at Brooklyn College, February 9, 2019
 : Coffee + Unconference planning
 
 3:30p
-: Three 30' unconference sessions   
+: Two 45-minute unconference sessions
 
 5:00p
-: Unconference recap and closing remarks   
+: Unconference recap and closing remarks – Johanna Devaney
 
 
 ### Local Map
@@ -61,15 +61,17 @@ Brooklyn College is located in the Midwood neighborhood of Brooklyn.  It is a mi
 
 ### Getting to Brooklyn College
 
-Brooklyn College is located at the end of the 2 and 5 subway lines at the Flatbush Ave stop closest to the library and on the Q subway line at the Avenue H stop on the other end of campus.
+- Subway: Brooklyn College is located at the end of the 2 and 5 subway lines at the Flatbush Ave stop closest to the library and on the Q subway line at the Avenue H stop on the other end of campus.
 
-- Long Island Railroad (Atlantic Terminal): 25-30 minute subway ride to Brooklyn College
+- Bus: Brooklyn College is served by [several bus lines](http://tripplanner.mta.info)
 
-- Amtrak (Penn Station): 50-60 minute subway ride from Penn Station to Brooklyn College
+- From the Long Island Railroad (Atlantic Terminal): 25-30 minute subway ride to Brooklyn College.  Take the 2 or 5 train to the Flatbush Avenue stop.
 
-- JFK airport: 30-45 minute drive to Brooklyn College
+- From Amtrak (Penn Station): 50-60 minute subway ride from Penn Station to Brooklyn College.  Take the Q train to Atlantic Terminal and switch to the 2 or 5 train to Flatbush Avenue.
 
-- LGA airport: 45-60 minute drive to Brooklyn College
+- From JFK airport: 30-45 minute drive to Brooklyn College
+
+- From LGA airport: 45-60 minute drive to Brooklyn College
 
 ### Staying near Brooklyn College
 
