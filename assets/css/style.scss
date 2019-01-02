@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// From (but changing .dl-horizontal to dl
+// https://getbootstrap.com/docs/3.3/dist/css/bootstrap.css
+@media (min-width: 768px) {
+  dl dt {
+    float: left;
+    width: 60px;
+    overflow: hidden;
+    clear: left;
+    text-align: right;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  dl dd {
+    margin-left: 70px;
+  }
+}
+dl dd:before,
+dl dd:after {
+  display: table;
+  content: " ";
+}
+dl dd:after {
+  clear: both;
+}

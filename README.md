@@ -1,5 +1,5 @@
-The location for NEMISIG 2019 is still being confirmed! 
+NEMISIG 2019 will be at Brooklyn College
 
-It will take place in late January / early February. 
+It will take place on February 9th.
 
-And it will be in the Northeast! 
+This webpage is live here: http://nemisig2019.nemisig.org/
