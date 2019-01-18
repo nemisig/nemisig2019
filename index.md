@@ -2,7 +2,7 @@
 
 NEMISIG (North East Music Information Special Interest Group) is a yearly informal meeting for Music Information Retrieval researchers who work at the intersection of computer science, mathematics, and music. NEMISIG gathers researchers from the Northeastern United States and has previously been hosted at Columbia (2008, 2014), NYU (2010), Drexel (2011, 2016), Dartmouth (2012), The Echo Nest (2013), Ithaca College (2015), the University of Rochester (2017), and Brown University (2018).
 
-Register [here](https://goo.gl/forms/zehbV5OlrGNl3exz2) by *February 4, 2019*
+Register [here](https://goo.gl/forms/zehbV5OlrGNl3exz2) by **February 4, 2019**
 
 If you have any questions, please [email the Google Group](mailto:nemisig@googlegroups.com)! You may also wish to [join the group](https://groups.google.com/forum/#!forum/nemisig).
 
