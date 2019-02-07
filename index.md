@@ -19,11 +19,18 @@ This year, NEMISIG will be in Brooklyn, NY at Brooklyn College, February 9, 2019
 10:00a
 : Breakfast / coffee / check-in (Library Room 411)
 
-10:30a
+10:45a
 : Welcome – Michael Mandel (Woody Tanger Auditorium)
 
-10:45a
+11:00a
 : Overview lab talks (Woody Tanger Auditorium)
+   * 11:00 – Brian McFee (NYU)
+   * 11:15 – Zhiyao Duan (University of Rochester)
+   * 11:30 – Chris Tralie (John's Hopkins University)
+   * 11:45 – Josiah Parry (Northeastern University)
+   * 12:00 – Douglas Turnbull (Ithaca College)
+   * 12:15 – Doug Geers (Brooklyn College)
+   * 12:30 – Youngmoo Kim (Drexel University, ExCITe Center)
 
 12:45p
 : Lunch (Library room 411)
@@ -31,16 +38,16 @@ This year, NEMISIG will be in Brooklyn, NY at Brooklyn College, February 9, 2019
 **Afternoon**
 
 1:45p
-: Posters (Location TBD)
+: Posters (Library room 411)
 
 3:00p
-: Coffee + Unconference planning
+: Coffee + Unconference planning (Library room 411)
 
 3:30p
-: Two 45-minute unconference sessions
+: Two 45-minute unconference sessions (Library rooms 241, 242, 411)
 
 5:00p
-: Unconference recap and closing remarks – Johanna Devaney
+: Unconference recap and closing remarks – Johanna Devaney (Woody Tanger Auditorium)
 
 
 ### Local Map
