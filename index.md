@@ -14,16 +14,16 @@ This year, NEMISIG will be in Brooklyn, NY at Brooklyn College, February 9, 2019
 
 ## Preliminary Schedule: Saturday, Feburary 9
 
-**Morning** in the Woody Tanger Auditorium within the [Brooklyn College library](https://goo.gl/maps/VyeWi5aqm6r)
+**Morning** in the [Woody Tanger Auditorium](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=32) within the [Brooklyn College library](https://goo.gl/maps/VyeWi5aqm6r)
 
 10:00a
-: Breakfast / coffee / check-in (Library Room 411)
+: Breakfast / coffee / check-in (Library [Room 411]())
 
 10:45a
-: Welcome – Michael Mandel (Woody Tanger Auditorium)
+: Welcome – Michael Mandel ([Woody Tanger Auditorium](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=32))
 
 11:00a
-: Overview lab talks (Woody Tanger Auditorium)
+: Overview lab talks ([Woody Tanger Auditorium](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=32))
    * 11:00 – Brian McFee (NYU)
    * 11:15 – Zhiyao Duan (University of Rochester)
    * 11:30 – Chris Tralie (John's Hopkins University)
@@ -33,21 +33,21 @@ This year, NEMISIG will be in Brooklyn, NY at Brooklyn College, February 9, 2019
    * 12:30 – Youngmoo Kim (Drexel University, ExCITe Center)
 
 12:45p
-: Lunch (Library room 411)
+: Lunch (Library [room 411](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=99))
 
 **Afternoon**
 
 1:45p
-: Posters (Library room 411)
+: Posters (Library [room 411](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=99))
 
 3:00p
-: Coffee + Unconference planning (Library room 411)
+: Coffee + Unconference planning (Library [room 411](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=99))
 
 3:30p
-: Two 45-minute unconference sessions (Library rooms 241, 242, 411)
+: Two 45-minute unconference sessions (Library rooms [241](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=81), [242](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=79), [411](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=99))
 
 5:00p
-: Unconference recap and closing remarks – Johanna Devaney (Woody Tanger Auditorium)
+: Unconference recap and closing remarks – Johanna Devaney ([Woody Tanger Auditorium](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=32))
 
 
 ### Local Map
