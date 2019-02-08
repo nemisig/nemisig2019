@@ -27,10 +27,9 @@ This year, NEMISIG will be in Brooklyn, NY at Brooklyn College, February 9, 2019
    * 11:00 – Brian McFee (NYU)
    * 11:15 – Zhiyao Duan (University of Rochester)
    * 11:30 – Chris Tralie (John's Hopkins University)
-   * 11:45 – Josiah Parry (Northeastern University)
-   * 12:00 – Douglas Turnbull (Ithaca College)
-   * 12:15 – Doug Geers (Brooklyn College)
-   * 12:30 – Youngmoo Kim (Drexel University, ExCITe Center)
+   * 11:45 – Douglas Turnbull (Ithaca College)
+   * 12:00 – Doug Geers (Brooklyn College)
+   * 12:15 – Youngmoo Kim (Drexel University, ExCITe Center)
 
 12:45p
 : Lunch (Library [room 411](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=99))
