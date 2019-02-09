@@ -86,6 +86,8 @@ Brooklyn College is located in the Midwood neighborhood of Brooklyn.  It is a mi
 
 - From LGA airport: 45-60 minute drive to Brooklyn College
 
+- Parking: There is metered street parking ($7.50 for 6 hours) on Campus Road on the north edge of campus.  There is also a parking garage at 2201 Nostrand Ave just south of Ave H that is ~$25 for the day.
+
 ### Staying near Brooklyn College
 
 Most hotels with reasonable subway access to Brooklyn College are located in Downtown Brooklyn, Crown Heights, or Park Slope.
