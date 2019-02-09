@@ -51,7 +51,16 @@ This year, NEMISIG will be in Brooklyn, NY at Brooklyn College, February 9, 2019
 : Coffee + Unconference planning (Library [room 411](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=99))
 
 3:30p
-: Two 45-minute unconference sessions (Library rooms [241](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=81), [242](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=79), [411](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=99))
+: Unconference session 1
+   * Room [411](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=99): Generative and realtime neural synthesis
+   * Room [241](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=81): Intro to MIR
+   * Room [242](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=79): Lyric transcription
+
+4:15p
+: Unconference session 2
+   * Room [411](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=99): Graphs and topology
+   * Room [241](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=81): Unsupervised and self-supervised learning + deep learning vs feature detection and modeling
+   * Room [242](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=79): Multimodal models
 
 5:00p
 : Unconference recap and closing remarks – Johanna Devaney ([Woody Tanger Auditorium](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=32))
