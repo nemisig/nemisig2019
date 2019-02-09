@@ -61,6 +61,7 @@ This year, NEMISIG will be in Brooklyn, NY at Brooklyn College, February 9, 2019
    * Room [411](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=99): Graphs and topology
    * Room [241](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=81): Unsupervised and self-supervised learning + deep learning vs feature detection and modeling
    * Room [242](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=79): Multimodal models
+   * [Auditorium](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=32): Software and toolsl and data
 
 5:00p
 : Unconference recap and closing remarks – Johanna Devaney ([Woody Tanger Auditorium](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=32))
