@@ -19,17 +19,17 @@ This year, NEMISIG will be in Brooklyn, NY at Brooklyn College, February 9, 2019
 10:00a
 : Breakfast / coffee / check-in (Library [Room 411]())
 
-10:45a
+11:00a
 : Welcome – Michael Mandel ([Woody Tanger Auditorium](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=32))
 
-11:00a
+11:15a
 : Overview lab talks ([Woody Tanger Auditorium](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=32))
-   * 11:00 – Brian McFee (NYU)
-   * 11:15 – Zhiyao Duan (University of Rochester)
-   * 11:30 – Chris Tralie (John's Hopkins University)
-   * 11:45 – Douglas Turnbull (Ithaca College)
-   * 12:00 – Doug Geers (Brooklyn College)
-   * 12:15 – Youngmoo Kim (Drexel University, ExCITe Center)
+   * 11:15 – Brian McFee (NYU)
+   * 11:30 – Zhiyao Duan (University of Rochester)
+   * 11:45 – Chris Tralie (John's Hopkins University)
+   * 12:00 – Douglas Turnbull (Ithaca College)
+   * 12:15 – Doug Geers (Brooklyn College)
+   * 12:30 – Youngmoo Kim (Drexel University, ExCITe Center)
 
 12:45p
 : Lunch (Library [room 411](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=99))
@@ -45,6 +45,7 @@ This year, NEMISIG will be in Brooklyn, NY at Brooklyn College, February 9, 2019
    * Christodoulos Benetatos and Zhiyao Duan, "Towards human-machine real-time music improvisation"
    * Elizabeth Mendoza, "Synthetizing Training Data for Automatic Detection and Classification of Bird Songs"
    * Vincent Lostanlen, "Sparsity bounds in rhythmic tiling canons"
+   * Tim Clerico, Daniel Akimchuk, Doug Turnbull, "Localify: Exploring Local Music Event Recommendation and Playlist Creation on Spotify"
 
 3:00p
 : Coffee + Unconference planning (Library [room 411](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=99))
