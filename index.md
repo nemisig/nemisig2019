@@ -38,6 +38,13 @@ This year, NEMISIG will be in Brooklyn, NY at Brooklyn College, February 9, 2019
 
 1:45p
 : Posters (Library [room 411](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=99))
+   * Shaun Barry and Youngmoo Kim, "InfoWaveGAN: Informative Latent Spaces for Waveform Generation"
+   * Stephen Carrow, Chris Rogers, Andrea Wang, and Yassine Kadiri, "Deep Multi-Modal Content-User Embeddings for Music Recommendation"
+   * Andy Wiggins and Youngmoo E. Kim, "Automatic Guitar Tablature Transcription with Convolutional Neural Networks"
+   * Dzmitry Kasinets and Michael I Mandel, "Concatenative Resynthesis for Extracting Bass Parts from Songs"
+   * Christodoulos Benetatos and Zhiyao Duan, "Towards human-machine real-time music improvisation"
+   * Elizabeth Mendoza, "Synthetizing Training Data for Automatic Detection and Classification of Bird Songs"
+   * Vincent Lostanlen, "Sparsity bounds in rhythmic tiling canons"
 
 3:00p
 : Coffee + Unconference planning (Library [room 411](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=99))
