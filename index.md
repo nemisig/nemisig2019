@@ -20,7 +20,7 @@ This year, NEMISIG will be in Brooklyn, NY at Brooklyn College, February 9, 2019
 : Breakfast / coffee / check-in (Library [Room 411]())
 
 11:00a
-: Welcome – Michael Mandel ([Woody Tanger Auditorium](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=32))
+: Welcome – Michael Mandel - [slides](/images/mandelSlides.pdf) ([Woody Tanger Auditorium](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=32))
 
 11:15a
 : Overview lab talks ([Woody Tanger Auditorium](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=32))
