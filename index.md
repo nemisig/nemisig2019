@@ -24,9 +24,9 @@ This year, NEMISIG will be in Brooklyn, NY at Brooklyn College, February 9, 2019
 
 11:15a
 : Overview lab talks ([Woody Tanger Auditorium](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=32))
-   * 11:15 – Brian McFee (NYU)
-   * 11:30 – Zhiyao Duan (University of Rochester)
-   * 11:45 – Chris Tralie (John's Hopkins University)
+   * 11:15 – Brian McFee - [slides](/images/mcfeeSlides.pdf) (NYU)
+   * 11:30 – Zhiyao Duan - [slides](/images/duanSlides.pdf) (University of Rochester)
+   * 11:45 – Chris Tralie - [slides](/images/tralieSlides/slides.pdf) (John's Hopkins University)
    * 12:00 – Douglas Turnbull (Ithaca College)
    * 12:15 – Doug Geers (Brooklyn College)
    * 12:30 – Youngmoo Kim (Drexel University, ExCITe Center)
