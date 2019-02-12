@@ -8,11 +8,13 @@ If you have any questions, please [email the Google Group](mailto:nemisig@google
 
 ## Venue
 
-This year, NEMISIG will be in Brooklyn, NY at Brooklyn College, February 9, 2019. It is co-hosted by Brooklyn College's [department of Computer and Information Science](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/departments/computers.php) and [Conservatory of Music](http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/departments/music.php).  It will be held in the Brooklyn College library.
+This year, NEMISIG will be in Brooklyn, NY at Brooklyn College, February 9, 2019. It is co-hosted by Michael Mandel of the [department of Computer and Information Science](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/departments/computers.php) and Johanna Devaney of the [Conservatory of Music](http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/departments/music.php).  It will be held in the Brooklyn College library.
+
+NEMISIG 2019 is supported by the Brooklyn College [Department of Computer and Information Science](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/departments/computers.php) and [School of Natural and Behavioral Sciences](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences.php).
 
 ![Brooklyn College Library - image from Wikipedia user Beyond My Ken](/images/library.jpg)
 
-## Preliminary Schedule: Saturday, Feburary 9
+## Schedule: Saturday, Feburary 9
 
 **Morning** in the [Woody Tanger Auditorium](https://library.brooklyn.cuny.edu/library/about/directory/index.php?view=show_rooms&room_id=32) within the [Brooklyn College library](https://goo.gl/maps/VyeWi5aqm6r)
 
