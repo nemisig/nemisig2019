@@ -28,7 +28,7 @@ This year, NEMISIG will be in Brooklyn, NY at Brooklyn College, February 9, 2019
    * 11:30 – Zhiyao Duan - [slides](/images/duanSlides.pdf) (University of Rochester)
    * 11:45 – Chris Tralie - [slides](/images/tralieSlides/slides.pdf) (John's Hopkins University)
    * 12:00 – Douglas Turnbull - [slides](/images/turnbullSlides.pdf) (Ithaca College)
-   * 12:15 – Doug Geers (Brooklyn College)
+   * 12:15 – Johanna Devaney - [slides](/images/devaneySlides.pdf) (Brooklyn College)
    * 12:30 – Youngmoo Kim - [slides](/images/kimSlides.pdf) (Drexel University, ExCITe Center)
 
 12:45p
